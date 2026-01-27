@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Money Bank accounts related QA APIs"
+  contactDetails:
+    name: "Ashok Shinde - Tester/QA"
+    email: "ashoks@moneybank.com"
+  onCallSupport:
+    - (+91) 1234
+    - (+91) 5678
+

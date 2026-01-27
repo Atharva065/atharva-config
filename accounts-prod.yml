@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Money Bank accounts related Prod APIs"
+  contactDetails:
+    name: "Bhushan Kinge - Production"
+    email: "bhushank@moneybank.com"
+  onCallSupport:
+    - (+91) 9876
+    - (+91) 5432
+

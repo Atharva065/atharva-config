@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Money Bank accounts related local APIs"
+  contactDetails:
+    name: "Rohit Patil - Developer"
+    email: "rohitp@moneybank.com"
+  onCallSupport:
+    - (+91) 9876543210
+    - (+91) 9878676543
+
+
